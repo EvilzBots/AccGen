@@ -10,9 +10,9 @@
     "telethon",
     "accgenbot"
   ],
-  "repository": "https://github.com/SoulHackz/AccGenBot",
-  "website": "t.me/SoulGiveaways",
-  "success_url": "t.me/SoulHackz",
+  "repository": "https://github.com/EvilzBots/AccGen",
+  "website": "t.me/EvilzBots",
+  "success_url": "t.me/EvilzBots",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
