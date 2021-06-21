@@ -15,9 +15,6 @@ async def gen(event):
 
     await event.edit("Choose Which Accounts you want to Generate", 
 buttons=[
-    [Button.inline("✘ Vpn Accounts ✘", data="vpns")],
     [Button.inline("✘ Streaming Accounts ✘", data="stream")],
-    [Button.inline("✘ Cashout Accounts ✘", data="cash")],
-    [Button.inline("✘ Educational Accounts ✘", data="edu")],
     [Button.inline("Back :)", data="start_bot")]
 ])
