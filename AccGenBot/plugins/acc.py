@@ -6,9 +6,6 @@ from telethon.tl.functions.users import GetFullUserRequest
 import random
 from lists import users
 
-
-
-
 @AccGenBot.on(events.callbackquery.CallbackQuery(data=b"zee5"))
 async def zee5(event):
     chat = event.sender_id
