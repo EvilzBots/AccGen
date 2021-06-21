@@ -12,7 +12,6 @@ async def start(event):
             await event.reply("**Join my channel to use this bot :)**", buttons=[[Button.url("Join Channel", Config.CHANNEL_URL)]])
             return
 
-    name = heck.user.first_name
     await event.reply(f"**Heya\n\nWelcome to AccGenBot, From Here You can Generate free Accounts\n\nMade With ❤️ By @EvilzBots**", buttons=[[Button.inline("Generate Accounts", data="gen")], [Button.url("Join Channel!", Config.CHANNEL_URL)]])
 
 #Repeat Codes :/
@@ -24,5 +23,4 @@ async def start(event):
             await event.edit("**Join my channel to use this bot :)**", buttons=[[Button.url("Join Channel", Config.CHANNEL_URL)]])
             return
 
-    name = heck.user.first_name
     await event.reply(f"**Heya \n\nWelcome to AccGenBot, From Here You can Generate free Accounts\n\nMade With ❤️ By @EvilzBots**", buttons=[[Button.inline("Generate Accounts", data="gen")], [Button.url("Join Channel!", Config.CHANNEL_URL)]])
