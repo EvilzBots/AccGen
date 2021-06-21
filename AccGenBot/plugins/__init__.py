@@ -1,5 +1,7 @@
-from telethon import Button, custom, events, functions
+from telethon import Button, custom, events
 import telethon
+from telethon.tl.functions.channels import GetParticipantRequest
+
 
 async def verify(channel_id, event, bot):
     try:
