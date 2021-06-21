@@ -15,8 +15,8 @@ Please Edit All `Hits` File And Your Own Hits.
 email@email.com:password
 email@email.com:password
 ```
-# My Devs
-➥ [Madboi](https://t.me/Madboi_xD)
+# Public / Small Contribution By
+➥ [Madboi](https://t.me/I_A_M_E_V_I_L)
 
 # Configs
 ```
@@ -29,7 +29,7 @@ OWNER_ID = Your ID (Owner) Get From Any Bot.
 ```
 
 # Deploy
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SoulHackz/AccGenBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EvilzBots/AccGen)
 
 # Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
