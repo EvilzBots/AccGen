@@ -4,7 +4,7 @@
 A Simple Multi-AccGenBot Source Code Made With Python [Telethon]
 
 # Features
-* [x] You can add 4 types of Accounts
+* [x] You can add 1 type of Accounts
 * [x] Customisable
 * [x] Channel Verification Support
 
