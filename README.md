@@ -16,8 +16,8 @@ email@email.com:password
 email@email.com:password
 ```
 # Public / Small Contribution By
-➥ [Madboi](https://t.me/I_A_M_E_V_I_L)
-
+• [Madboi](https://t.me/I_A_M_E_V_I_L)
+• Big Credit To [Stark](https://t.me/TheStarkxD)
 # Configs
 ```
 TOKEN = Bot Token Obtained From @BotFather
