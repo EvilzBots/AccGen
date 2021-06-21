@@ -6,9 +6,6 @@
 #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 #    GNU Affero General Public License for more details.
 
-#    See < https://github.com/SoulHackz/AccGenBot/blob/master/LICENSE > 
-#    for the license.
-
 import glob
 from pathlib import Path
 from AccGenBot.utils import load_plugins
