@@ -6,14 +6,10 @@ from telethon.tl.functions.users import GetFullUserRequest
 import random
 from lists import users
 
-
-
-
 @AccGenBot.on(events.NewMessage(pattern="/zee5"))
 async def zee5(event):
     chat = event.sender_id
     evil = await verify(Config.CHANNEL_US, event, AccGenBot)
-
 
     if evil is False:
            await event.reply("**Join my channel to use me :)**", buttons=[[Button.url("Join Channel", Config.CHANNEL_URL)]])
